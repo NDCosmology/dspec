@@ -1,0 +1,1 @@
+Commented out the writing of the COM file as it is no longer needed since I'm not using Bertone's code.
